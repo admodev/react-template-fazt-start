@@ -1,0 +1,28 @@
+{
+  "name": "cra-template-fazt-start",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template"
+  ],
+  "author": "Adolfo Moyano (admodev)",
+  "description": "Fast boot your react projects with this create-react-app template!",
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/admodev/react-template-fazt-start.git",
+    "directory": "packages/cra-template"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "bugs": {
+    "url": "https://github.com/facebook/create-react-app/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
